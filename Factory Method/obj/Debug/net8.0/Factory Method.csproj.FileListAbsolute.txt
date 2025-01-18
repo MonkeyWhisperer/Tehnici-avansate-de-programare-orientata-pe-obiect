@@ -1,0 +1,14 @@
+C:\Users\Rusan\source\repos\Factory Method\bin\Debug\net8.0\Factory Method.exe
+C:\Users\Rusan\source\repos\Factory Method\bin\Debug\net8.0\Factory Method.deps.json
+C:\Users\Rusan\source\repos\Factory Method\bin\Debug\net8.0\Factory Method.runtimeconfig.json
+C:\Users\Rusan\source\repos\Factory Method\bin\Debug\net8.0\Factory Method.dll
+C:\Users\Rusan\source\repos\Factory Method\bin\Debug\net8.0\Factory Method.pdb
+C:\Users\Rusan\source\repos\Factory Method\obj\Debug\net8.0\Factory Method.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rusan\source\repos\Factory Method\obj\Debug\net8.0\Factory Method.AssemblyInfoInputs.cache
+C:\Users\Rusan\source\repos\Factory Method\obj\Debug\net8.0\Factory Method.AssemblyInfo.cs
+C:\Users\Rusan\source\repos\Factory Method\obj\Debug\net8.0\Factory Method.csproj.CoreCompileInputs.cache
+C:\Users\Rusan\source\repos\Factory Method\obj\Debug\net8.0\Factory Method.dll
+C:\Users\Rusan\source\repos\Factory Method\obj\Debug\net8.0\refint\Factory Method.dll
+C:\Users\Rusan\source\repos\Factory Method\obj\Debug\net8.0\Factory Method.pdb
+C:\Users\Rusan\source\repos\Factory Method\obj\Debug\net8.0\Factory Method.genruntimeconfig.cache
+C:\Users\Rusan\source\repos\Factory Method\obj\Debug\net8.0\ref\Factory Method.dll

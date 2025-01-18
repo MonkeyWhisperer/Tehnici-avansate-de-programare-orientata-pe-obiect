@@ -1,0 +1,14 @@
+C:\Users\Rusan\source\repos\Bridge Factory\bin\Debug\net8.0\Bridge Factory.exe
+C:\Users\Rusan\source\repos\Bridge Factory\bin\Debug\net8.0\Bridge Factory.deps.json
+C:\Users\Rusan\source\repos\Bridge Factory\bin\Debug\net8.0\Bridge Factory.runtimeconfig.json
+C:\Users\Rusan\source\repos\Bridge Factory\bin\Debug\net8.0\Bridge Factory.dll
+C:\Users\Rusan\source\repos\Bridge Factory\bin\Debug\net8.0\Bridge Factory.pdb
+C:\Users\Rusan\source\repos\Bridge Factory\obj\Debug\net8.0\Bridge Factory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rusan\source\repos\Bridge Factory\obj\Debug\net8.0\Bridge Factory.AssemblyInfoInputs.cache
+C:\Users\Rusan\source\repos\Bridge Factory\obj\Debug\net8.0\Bridge Factory.AssemblyInfo.cs
+C:\Users\Rusan\source\repos\Bridge Factory\obj\Debug\net8.0\Bridge Factory.csproj.CoreCompileInputs.cache
+C:\Users\Rusan\source\repos\Bridge Factory\obj\Debug\net8.0\Bridge Factory.dll
+C:\Users\Rusan\source\repos\Bridge Factory\obj\Debug\net8.0\refint\Bridge Factory.dll
+C:\Users\Rusan\source\repos\Bridge Factory\obj\Debug\net8.0\Bridge Factory.pdb
+C:\Users\Rusan\source\repos\Bridge Factory\obj\Debug\net8.0\Bridge Factory.genruntimeconfig.cache
+C:\Users\Rusan\source\repos\Bridge Factory\obj\Debug\net8.0\ref\Bridge Factory.dll

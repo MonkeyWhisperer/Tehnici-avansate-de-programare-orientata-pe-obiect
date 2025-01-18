@@ -1,0 +1,14 @@
+C:\Users\Rusan\source\repos\PABF\Abstract Factory\bin\Debug\net8.0\Abstract Factory.exe
+C:\Users\Rusan\source\repos\PABF\Abstract Factory\bin\Debug\net8.0\Abstract Factory.deps.json
+C:\Users\Rusan\source\repos\PABF\Abstract Factory\bin\Debug\net8.0\Abstract Factory.runtimeconfig.json
+C:\Users\Rusan\source\repos\PABF\Abstract Factory\bin\Debug\net8.0\Abstract Factory.dll
+C:\Users\Rusan\source\repos\PABF\Abstract Factory\bin\Debug\net8.0\Abstract Factory.pdb
+C:\Users\Rusan\source\repos\PABF\Abstract Factory\obj\Debug\net8.0\Abstract Factory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rusan\source\repos\PABF\Abstract Factory\obj\Debug\net8.0\Abstract Factory.AssemblyInfoInputs.cache
+C:\Users\Rusan\source\repos\PABF\Abstract Factory\obj\Debug\net8.0\Abstract Factory.AssemblyInfo.cs
+C:\Users\Rusan\source\repos\PABF\Abstract Factory\obj\Debug\net8.0\Abstract Factory.csproj.CoreCompileInputs.cache
+C:\Users\Rusan\source\repos\PABF\Abstract Factory\obj\Debug\net8.0\Abstract Factory.dll
+C:\Users\Rusan\source\repos\PABF\Abstract Factory\obj\Debug\net8.0\refint\Abstract Factory.dll
+C:\Users\Rusan\source\repos\PABF\Abstract Factory\obj\Debug\net8.0\Abstract Factory.pdb
+C:\Users\Rusan\source\repos\PABF\Abstract Factory\obj\Debug\net8.0\Abstract Factory.genruntimeconfig.cache
+C:\Users\Rusan\source\repos\PABF\Abstract Factory\obj\Debug\net8.0\ref\Abstract Factory.dll
