@@ -1,0 +1,15 @@
+C:\Tehnici-avansate-de-programare-orientata-pe-obiect\Observer Pattern\bin\Debug\net8.0\Observer Pattern.exe
+C:\Tehnici-avansate-de-programare-orientata-pe-obiect\Observer Pattern\bin\Debug\net8.0\Observer Pattern.deps.json
+C:\Tehnici-avansate-de-programare-orientata-pe-obiect\Observer Pattern\bin\Debug\net8.0\Observer Pattern.runtimeconfig.json
+C:\Tehnici-avansate-de-programare-orientata-pe-obiect\Observer Pattern\bin\Debug\net8.0\Observer Pattern.dll
+C:\Tehnici-avansate-de-programare-orientata-pe-obiect\Observer Pattern\bin\Debug\net8.0\Observer Pattern.pdb
+C:\Tehnici-avansate-de-programare-orientata-pe-obiect\Observer Pattern\obj\Debug\net8.0\Observer Pattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Tehnici-avansate-de-programare-orientata-pe-obiect\Observer Pattern\obj\Debug\net8.0\Observer Pattern.AssemblyInfoInputs.cache
+C:\Tehnici-avansate-de-programare-orientata-pe-obiect\Observer Pattern\obj\Debug\net8.0\Observer Pattern.AssemblyInfo.cs
+C:\Tehnici-avansate-de-programare-orientata-pe-obiect\Observer Pattern\obj\Debug\net8.0\Observer Pattern.csproj.CoreCompileInputs.cache
+C:\Tehnici-avansate-de-programare-orientata-pe-obiect\Observer Pattern\obj\Debug\net8.0\Observer Pattern.sourcelink.json
+C:\Tehnici-avansate-de-programare-orientata-pe-obiect\Observer Pattern\obj\Debug\net8.0\Observer Pattern.dll
+C:\Tehnici-avansate-de-programare-orientata-pe-obiect\Observer Pattern\obj\Debug\net8.0\refint\Observer Pattern.dll
+C:\Tehnici-avansate-de-programare-orientata-pe-obiect\Observer Pattern\obj\Debug\net8.0\Observer Pattern.pdb
+C:\Tehnici-avansate-de-programare-orientata-pe-obiect\Observer Pattern\obj\Debug\net8.0\Observer Pattern.genruntimeconfig.cache
+C:\Tehnici-avansate-de-programare-orientata-pe-obiect\Observer Pattern\obj\Debug\net8.0\ref\Observer Pattern.dll

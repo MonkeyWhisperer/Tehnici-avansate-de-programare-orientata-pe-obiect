@@ -1,0 +1,15 @@
+C:\Tehnici-avansate-de-programare-orientata-pe-obiect\Strategy Pattern\bin\Debug\net8.0\Strategy Pattern.exe
+C:\Tehnici-avansate-de-programare-orientata-pe-obiect\Strategy Pattern\bin\Debug\net8.0\Strategy Pattern.deps.json
+C:\Tehnici-avansate-de-programare-orientata-pe-obiect\Strategy Pattern\bin\Debug\net8.0\Strategy Pattern.runtimeconfig.json
+C:\Tehnici-avansate-de-programare-orientata-pe-obiect\Strategy Pattern\bin\Debug\net8.0\Strategy Pattern.dll
+C:\Tehnici-avansate-de-programare-orientata-pe-obiect\Strategy Pattern\bin\Debug\net8.0\Strategy Pattern.pdb
+C:\Tehnici-avansate-de-programare-orientata-pe-obiect\Strategy Pattern\obj\Debug\net8.0\Strategy Pattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Tehnici-avansate-de-programare-orientata-pe-obiect\Strategy Pattern\obj\Debug\net8.0\Strategy Pattern.AssemblyInfoInputs.cache
+C:\Tehnici-avansate-de-programare-orientata-pe-obiect\Strategy Pattern\obj\Debug\net8.0\Strategy Pattern.AssemblyInfo.cs
+C:\Tehnici-avansate-de-programare-orientata-pe-obiect\Strategy Pattern\obj\Debug\net8.0\Strategy Pattern.csproj.CoreCompileInputs.cache
+C:\Tehnici-avansate-de-programare-orientata-pe-obiect\Strategy Pattern\obj\Debug\net8.0\Strategy Pattern.sourcelink.json
+C:\Tehnici-avansate-de-programare-orientata-pe-obiect\Strategy Pattern\obj\Debug\net8.0\Strategy Pattern.dll
+C:\Tehnici-avansate-de-programare-orientata-pe-obiect\Strategy Pattern\obj\Debug\net8.0\refint\Strategy Pattern.dll
+C:\Tehnici-avansate-de-programare-orientata-pe-obiect\Strategy Pattern\obj\Debug\net8.0\Strategy Pattern.pdb
+C:\Tehnici-avansate-de-programare-orientata-pe-obiect\Strategy Pattern\obj\Debug\net8.0\Strategy Pattern.genruntimeconfig.cache
+C:\Tehnici-avansate-de-programare-orientata-pe-obiect\Strategy Pattern\obj\Debug\net8.0\ref\Strategy Pattern.dll

@@ -1,0 +1,15 @@
+C:\Tehnici-avansate-de-programare-orientata-pe-obiect\Chain of Responsabilities Pattern\bin\Debug\net8.0\Chain of Responsabilities Pattern.exe
+C:\Tehnici-avansate-de-programare-orientata-pe-obiect\Chain of Responsabilities Pattern\bin\Debug\net8.0\Chain of Responsabilities Pattern.deps.json
+C:\Tehnici-avansate-de-programare-orientata-pe-obiect\Chain of Responsabilities Pattern\bin\Debug\net8.0\Chain of Responsabilities Pattern.runtimeconfig.json
+C:\Tehnici-avansate-de-programare-orientata-pe-obiect\Chain of Responsabilities Pattern\bin\Debug\net8.0\Chain of Responsabilities Pattern.dll
+C:\Tehnici-avansate-de-programare-orientata-pe-obiect\Chain of Responsabilities Pattern\bin\Debug\net8.0\Chain of Responsabilities Pattern.pdb
+C:\Tehnici-avansate-de-programare-orientata-pe-obiect\Chain of Responsabilities Pattern\obj\Debug\net8.0\Chain of Responsabilities Pattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Tehnici-avansate-de-programare-orientata-pe-obiect\Chain of Responsabilities Pattern\obj\Debug\net8.0\Chain of Responsabilities Pattern.AssemblyInfoInputs.cache
+C:\Tehnici-avansate-de-programare-orientata-pe-obiect\Chain of Responsabilities Pattern\obj\Debug\net8.0\Chain of Responsabilities Pattern.AssemblyInfo.cs
+C:\Tehnici-avansate-de-programare-orientata-pe-obiect\Chain of Responsabilities Pattern\obj\Debug\net8.0\Chain of Responsabilities Pattern.csproj.CoreCompileInputs.cache
+C:\Tehnici-avansate-de-programare-orientata-pe-obiect\Chain of Responsabilities Pattern\obj\Debug\net8.0\Chain of Responsabilities Pattern.sourcelink.json
+C:\Tehnici-avansate-de-programare-orientata-pe-obiect\Chain of Responsabilities Pattern\obj\Debug\net8.0\Chain of Responsabilities Pattern.dll
+C:\Tehnici-avansate-de-programare-orientata-pe-obiect\Chain of Responsabilities Pattern\obj\Debug\net8.0\refint\Chain of Responsabilities Pattern.dll
+C:\Tehnici-avansate-de-programare-orientata-pe-obiect\Chain of Responsabilities Pattern\obj\Debug\net8.0\Chain of Responsabilities Pattern.pdb
+C:\Tehnici-avansate-de-programare-orientata-pe-obiect\Chain of Responsabilities Pattern\obj\Debug\net8.0\Chain of Responsabilities Pattern.genruntimeconfig.cache
+C:\Tehnici-avansate-de-programare-orientata-pe-obiect\Chain of Responsabilities Pattern\obj\Debug\net8.0\ref\Chain of Responsabilities Pattern.dll

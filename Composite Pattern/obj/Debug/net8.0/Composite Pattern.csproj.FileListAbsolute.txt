@@ -1,0 +1,15 @@
+C:\Tehnici-avansate-de-programare-orientata-pe-obiect\Composite Pattern\bin\Debug\net8.0\Composite Pattern.exe
+C:\Tehnici-avansate-de-programare-orientata-pe-obiect\Composite Pattern\bin\Debug\net8.0\Composite Pattern.deps.json
+C:\Tehnici-avansate-de-programare-orientata-pe-obiect\Composite Pattern\bin\Debug\net8.0\Composite Pattern.runtimeconfig.json
+C:\Tehnici-avansate-de-programare-orientata-pe-obiect\Composite Pattern\bin\Debug\net8.0\Composite Pattern.dll
+C:\Tehnici-avansate-de-programare-orientata-pe-obiect\Composite Pattern\bin\Debug\net8.0\Composite Pattern.pdb
+C:\Tehnici-avansate-de-programare-orientata-pe-obiect\Composite Pattern\obj\Debug\net8.0\Composite Pattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Tehnici-avansate-de-programare-orientata-pe-obiect\Composite Pattern\obj\Debug\net8.0\Composite Pattern.AssemblyInfoInputs.cache
+C:\Tehnici-avansate-de-programare-orientata-pe-obiect\Composite Pattern\obj\Debug\net8.0\Composite Pattern.AssemblyInfo.cs
+C:\Tehnici-avansate-de-programare-orientata-pe-obiect\Composite Pattern\obj\Debug\net8.0\Composite Pattern.csproj.CoreCompileInputs.cache
+C:\Tehnici-avansate-de-programare-orientata-pe-obiect\Composite Pattern\obj\Debug\net8.0\Composite Pattern.sourcelink.json
+C:\Tehnici-avansate-de-programare-orientata-pe-obiect\Composite Pattern\obj\Debug\net8.0\Composite Pattern.dll
+C:\Tehnici-avansate-de-programare-orientata-pe-obiect\Composite Pattern\obj\Debug\net8.0\refint\Composite Pattern.dll
+C:\Tehnici-avansate-de-programare-orientata-pe-obiect\Composite Pattern\obj\Debug\net8.0\Composite Pattern.pdb
+C:\Tehnici-avansate-de-programare-orientata-pe-obiect\Composite Pattern\obj\Debug\net8.0\Composite Pattern.genruntimeconfig.cache
+C:\Tehnici-avansate-de-programare-orientata-pe-obiect\Composite Pattern\obj\Debug\net8.0\ref\Composite Pattern.dll
