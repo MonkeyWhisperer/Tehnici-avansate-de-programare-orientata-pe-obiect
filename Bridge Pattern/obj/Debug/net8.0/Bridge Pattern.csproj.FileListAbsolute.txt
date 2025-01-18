@@ -1,0 +1,15 @@
+C:\Tehnici-avansate-de-programare-orientata-pe-obiect\Bridge Pattern\bin\Debug\net8.0\Bridge Pattern.exe
+C:\Tehnici-avansate-de-programare-orientata-pe-obiect\Bridge Pattern\bin\Debug\net8.0\Bridge Pattern.deps.json
+C:\Tehnici-avansate-de-programare-orientata-pe-obiect\Bridge Pattern\bin\Debug\net8.0\Bridge Pattern.runtimeconfig.json
+C:\Tehnici-avansate-de-programare-orientata-pe-obiect\Bridge Pattern\bin\Debug\net8.0\Bridge Pattern.dll
+C:\Tehnici-avansate-de-programare-orientata-pe-obiect\Bridge Pattern\bin\Debug\net8.0\Bridge Pattern.pdb
+C:\Tehnici-avansate-de-programare-orientata-pe-obiect\Bridge Pattern\obj\Debug\net8.0\Bridge Pattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Tehnici-avansate-de-programare-orientata-pe-obiect\Bridge Pattern\obj\Debug\net8.0\Bridge Pattern.AssemblyInfoInputs.cache
+C:\Tehnici-avansate-de-programare-orientata-pe-obiect\Bridge Pattern\obj\Debug\net8.0\Bridge Pattern.AssemblyInfo.cs
+C:\Tehnici-avansate-de-programare-orientata-pe-obiect\Bridge Pattern\obj\Debug\net8.0\Bridge Pattern.csproj.CoreCompileInputs.cache
+C:\Tehnici-avansate-de-programare-orientata-pe-obiect\Bridge Pattern\obj\Debug\net8.0\Bridge Pattern.sourcelink.json
+C:\Tehnici-avansate-de-programare-orientata-pe-obiect\Bridge Pattern\obj\Debug\net8.0\Bridge Pattern.dll
+C:\Tehnici-avansate-de-programare-orientata-pe-obiect\Bridge Pattern\obj\Debug\net8.0\refint\Bridge Pattern.dll
+C:\Tehnici-avansate-de-programare-orientata-pe-obiect\Bridge Pattern\obj\Debug\net8.0\Bridge Pattern.pdb
+C:\Tehnici-avansate-de-programare-orientata-pe-obiect\Bridge Pattern\obj\Debug\net8.0\Bridge Pattern.genruntimeconfig.cache
+C:\Tehnici-avansate-de-programare-orientata-pe-obiect\Bridge Pattern\obj\Debug\net8.0\ref\Bridge Pattern.dll

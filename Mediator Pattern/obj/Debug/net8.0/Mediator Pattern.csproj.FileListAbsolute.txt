@@ -1,0 +1,15 @@
+C:\Tehnici-avansate-de-programare-orientata-pe-obiect\Mediator Pattern\bin\Debug\net8.0\Mediator Pattern.exe
+C:\Tehnici-avansate-de-programare-orientata-pe-obiect\Mediator Pattern\bin\Debug\net8.0\Mediator Pattern.deps.json
+C:\Tehnici-avansate-de-programare-orientata-pe-obiect\Mediator Pattern\bin\Debug\net8.0\Mediator Pattern.runtimeconfig.json
+C:\Tehnici-avansate-de-programare-orientata-pe-obiect\Mediator Pattern\bin\Debug\net8.0\Mediator Pattern.dll
+C:\Tehnici-avansate-de-programare-orientata-pe-obiect\Mediator Pattern\bin\Debug\net8.0\Mediator Pattern.pdb
+C:\Tehnici-avansate-de-programare-orientata-pe-obiect\Mediator Pattern\obj\Debug\net8.0\Mediator Pattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Tehnici-avansate-de-programare-orientata-pe-obiect\Mediator Pattern\obj\Debug\net8.0\Mediator Pattern.AssemblyInfoInputs.cache
+C:\Tehnici-avansate-de-programare-orientata-pe-obiect\Mediator Pattern\obj\Debug\net8.0\Mediator Pattern.AssemblyInfo.cs
+C:\Tehnici-avansate-de-programare-orientata-pe-obiect\Mediator Pattern\obj\Debug\net8.0\Mediator Pattern.csproj.CoreCompileInputs.cache
+C:\Tehnici-avansate-de-programare-orientata-pe-obiect\Mediator Pattern\obj\Debug\net8.0\Mediator Pattern.sourcelink.json
+C:\Tehnici-avansate-de-programare-orientata-pe-obiect\Mediator Pattern\obj\Debug\net8.0\Mediator Pattern.dll
+C:\Tehnici-avansate-de-programare-orientata-pe-obiect\Mediator Pattern\obj\Debug\net8.0\refint\Mediator Pattern.dll
+C:\Tehnici-avansate-de-programare-orientata-pe-obiect\Mediator Pattern\obj\Debug\net8.0\Mediator Pattern.pdb
+C:\Tehnici-avansate-de-programare-orientata-pe-obiect\Mediator Pattern\obj\Debug\net8.0\Mediator Pattern.genruntimeconfig.cache
+C:\Tehnici-avansate-de-programare-orientata-pe-obiect\Mediator Pattern\obj\Debug\net8.0\ref\Mediator Pattern.dll
